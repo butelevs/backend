@@ -1,0 +1,4 @@
+advertisements/config.py
+advertisements/__pycache__/
+advertisements/migrations/
+api_with_restrictions/__pycache__/
